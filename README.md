@@ -8,6 +8,7 @@
 
 ## Java
 [Java e Orientação a Objetos Curso FJ-11 - Caelum](books/java/java-e-orientacao-a-objetos-fj11.pdf) ✅
+
 [Java para Desenvolvimento Web Curso FJ-21 - Caelum](books/java/java-para-desenvolvimento-web-fj21.pdf) 
 
 ## Python
@@ -19,6 +20,8 @@
 
 ## Fundamentals
 [Arquitetura de Sistemas Operacionais 4 - Francis Berenger Machado, Luiz Paulo Maia](books/fundamentals/arquitetura-de-sistemas-operacionais-4.pdf)
+
 [Controlando Versões com Git e Github - Alexandre Aquiles, Rodrigo Ferreira](books/fundamentals/controlando-versoes-com-git-e-github.pdf)
+
 [Padrões de Projeto - Erich Gamma, Richard Helm, Ralph Jonhson,John Vlissides](books/fundamentals/padroes-de-projeto-solucoes-reutilizaveis-de-software-orientado-a-objetos.pdf)
 
